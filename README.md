@@ -1,6 +1,12 @@
 # Gemini AI Photo Quick Guide (Nano Banana AI Model)
 
-Link: [geminiphoto.ai](https://geminiphoto.ai)
+Main Link: [Gemini Photo AI](https://geminiphoto.ai)
+
+AI Prompts Gallery: [Image Prompts Gallery](https://geminiphoto.ai/ai-image-prompts)
+
+Blogs:
+
+[7 Trending Gemini AI Photo Editing Prompts for Boys Every Content Creator Should Try](https://geminiphoto.ai/blog/gemini-ai-photo-editing-prompts-for-boys)
 
 ## What it is  
 Gemini AI Photo is an AI‑powered photo editor & generator that uses the Nano Banana model (also known as Gemini 2.5 Flash Image) to deliver advanced image transformations via text prompts or uploads.
